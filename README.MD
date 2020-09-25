@@ -18,7 +18,7 @@ Los conceptos mencionados en el párrafo anterior son explicados en el curso.
  <img align="left" width="200" height="200" src="figs/Universidad_nacional_de_colombia_escudo.svg">
 </p>
 
-El siguiente es un curso 100% en español sobre el software [ParaView](https://www.paraview.org/), hecho como becario de la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/) en la monitoriía de la asignatura Aplicación de los Elementos Finitos. 
+El siguiente es un curso 100% en español sobre el software [ParaView](https://www.paraview.org/), hecho como becario de la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/) en la monitoría de la asignatura Aplicación de los Elementos Finitos. 
 
 Se comenzará abordando una visión general de ParaView, y luego se procederá a explicar el funcionamiento de sus procesos, desde la apertura de archivos hasta el guardado, lo cual realmente no es tan elemental ya que se busca entender bien los formatos y peraciones dentro del programa.
 
@@ -30,4 +30,4 @@ El curso cuenta con videos publicados en la plataforma de [YouTube]() y se apoya
 
 ## Descargar ParaView
 
-ParaView está disponible para los 3 grandes sistems operativos del momento: Microsoft Windows, GNU LInux y mac OS, a un solo [clic](https://www.paraview.org/download/).
+ParaView está disponible para los 3 grandes sistemas operativos del momento: Microsoft Windows, GNU Linux y mac OS, a un solo [clic](https://www.paraview.org/download/).
