@@ -10,7 +10,7 @@
 
 Los conceptos mencionados en el párrafo anterior son explicados en el curso.
 
-***
+
 
 ## Sobre el curso
 
@@ -26,7 +26,7 @@ Se trabajará la visualización, filtrado y selección selección datos; tambié
 
 El curso cuenta con videos publicados en la plataforma de [YouTube]() y se apoya en [diaporamas](Diaporamas) y algunos [cuadernos](Cuadernos) con comandos básicos para el suo del Python Shell tomados del manual [TheParaViewGuide-5.8.1](https://www.paraview.org/paraview-guide/), documento con el cual se ha adquirido la mayoría de la información y que muestra la versión con la cual se trabajó del software: 5.8.1. Sin embargo, al nivel del curso no hay grandes diferencias operativas con versiones recientes.
 
-***
+
 
 ## Descargar ParaView
 
