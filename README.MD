@@ -51,9 +51,9 @@ ParaView está disponible para los 3 grandes sistemas operativos del momento: Mi
   - [Diaporama](Diaporamas/04_Visualizacion_de_los_datos.pdf).  
   - [Comandos ```pvpython```](Cuadernos/04_Visualizacion_de_los_datos.ipynb).
   - Video.
-- Python Views:
-  - [Diaporama](Diaporamas/04_Python_Views.pdf).
-  - [Comandos ```pvpython```](Cuadernos/04_Python_Views.ipynb).
+- Visualización Python Views:
+  - [Diaporama](Diaporamas/04_Visualizacion_Python_Views.pdf).
+  - [Comandos ```pvpython```](Cuadernos/04_Visualizacion_Python_Views.ipynb).
   - Video.
 - Filtración de los datos:
   - [Diaporama](Diaporamas/05_Filtracion_de_los_datos.pdf).  
