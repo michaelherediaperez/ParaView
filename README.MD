@@ -34,7 +34,7 @@ ParaView está disponible para los 3 grandes sistemas operativos del momento: Mi
   - Video [ParaView | Tutorial 00 | Presentación del software]().
 
 - Introducción a ParaView:
-  - [Diaporama](01_Introduccion_a_ParaView.pdf)
+  - [Diaporama](Diaporamas/01_Introduccion_a_ParaView.pdf)
   - [Comandos ```pvpython```](Cuadernos/01_Introduccion_a_ParaView.ipynb)
   - Video [ParaView | Tutorial 01 | Introducción a ParaView]().
 
