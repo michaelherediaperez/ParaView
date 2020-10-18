@@ -38,7 +38,7 @@ ParaView está disponible para los 3 grandes sistemas operativos del momento: Mi
   - [Comandos ```pvpython```](Cuadernos/01_Introduccion_a_ParaView.ipynb)
   - Video [ParaView | Tutorial 01 | Introducción a ParaView]().
 
-## Sobre el manejo de los datos
+## Sobre los datos
 - Cargar los datos:
   - [Diaporama](Diaporamas/02_Cargar_los_datos.pdf).
   - [Comandos ```pvpython```](Cuadernos/02_Cargar_los_datos.ipynb).
@@ -47,14 +47,27 @@ ParaView está disponible para los 3 grandes sistemas operativos del momento: Mi
   - [Diaporama](Diaporamas/03_Como_entender_los_datos.pdf).
   - [Comandos ```pvpython```](Cuadernos/03_Como_entender_los_datos.ipynb).
   - Video.
+
+
+## Visualizacion
 - Visualización de los datos:
   - [Diaporama](Diaporamas/04a_Visualizacion_de_los_datos.pdf).  
   - [Comandos ```pvpython```](Cuadernos/04a_Visualizacion_de_los_datos.ipynb).
   - Video.
-- Visualización Python Views:
+- Vistas de renderizado:
+  - [Diaporama](Diaporamas/04b_Vistas_de_renderizado_Render_Views.pdf).  
+  - [Comandos ```pvpython```]().
+  - Video.
+- Visualización de los datos:
+  - [Diaporama](Diaporamas/04a_Visualizacion_de_los_datos.pdf).  
+  - [Comandos ```pvpython```](Cuadernos/04a_Visualizacion_de_los_datos.ipynb).
+  - Video.
+- Python Views:
   - [Diaporama](Diaporamas/04d_Python_Views.pdf).
   - [Comandos ```pvpython```](Cuadernos/04d_Python_Views.ipynb).
   - Video.
+
+## Filtración
 - Filtración de los datos:
   - [Diaporama](Diaporamas/05_Filtracion_de_los_datos.pdf).  
   - [Comandos ```pvpython```](Cuadernos/05_Filtracion_de_los_datos.ipynb).
