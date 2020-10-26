@@ -25,7 +25,7 @@ Los conceptos mencionados en el párrafo anterior son explicados en el curso.
 * [02. Cargar los datos](02_Cargar_los_datos)
 * [03. Como entender los datos](03_Como_entender_los_datos)
 * [04. Visualizacion de los datos](04_Visualizacion_de_los_datos)
-* [05. Filtracion de los datos](05_Filtacion_de_los_datos)
+* [05. Filtracion de los datos](05_Filtracion_de_los_datos)
 * [06. Seleccion de los datos](06_Seleccion_de_los_datos)
 * [07. Animaciones](07_Animaciones)
 * [08. Guardar resultados](08_Guardar_resultados)

@@ -1,6 +1,6 @@
 # Cómo entender los datos
 
-En esta sección se explican cuáles son los tipos de datos en ParaView y cuáles implicaciones tiene cada uno de ellos. Los tipos de datos son los que encontramos en el Visualization Toolkit VTK siendo este e motor intenro de ParaView.
+En esta sección se explican cuáles son los tipos de datos en ParaView y cuáles implicaciones tiene cada uno de ellos. Los tipos de datos son similares a los que encontramos en el Visualization Toolkit VTK siendo este el motor intenro de ParaView.
 
 También se aborda el tema del almacenamiento e información adicional acerca de páneles de información.
 
