@@ -13,7 +13,7 @@ En esta sección se explica el concepto de vistas (*views* en inglés) y cuáles
 
 ## Comandos ```pvpython```
 
-* [Comandos para trabajar con Python Views](04d_Python_Views.ipynb)
+* [04d_Python_Views.ipynb](04d_Python_Views.ipynb): cuaderno con comandos para trabajar con Python Views, incluye una tabla con funciones útiles.
 
 ## Videos explicativos
 
