@@ -2,6 +2,8 @@
 
 En esta sección se explica porqué la selección de datos no es una herramienta futil, cuáles son las herramientas para hacerlo y los mecanismos con los cuales cuenta paraview.
 
+El manejo de la selección de datos desde ```pvpython``` es engorroso y no tan intuitivo como en las secciones anteriores, desde los desarrolladores de ParaView se está trabajando para mejorarlo en próximas entregas, por lo que el manual no presenta ningún comando al respecto mas que los existentes para la selección desde Python.
+
 ## Diaporamas
 
 - [06a. Selección de los datos](06a_Seleccion_de_los_datos.pdf)
