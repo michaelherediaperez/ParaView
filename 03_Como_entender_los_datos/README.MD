@@ -11,7 +11,7 @@ También se aborda el tema del almacenamiento e información adicional acerca de
 
 ## Comandos ```pvpython```
 
-- [03a_Como_entender_los_datos.ipynb](03a_Como_entender_los_datos.ipynb)
+- [03_Como_entender_los_datos.ipynb](03_Como_entender_los_datos.ipynb)
 
 ## Videos explicativos
 
