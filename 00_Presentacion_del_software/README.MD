@@ -3,7 +3,7 @@
 En esta primera sección se hace una pequeña presentación del software, mostrando qué es, cuál es su propósito y de dónde viene. Para ello se cuenta con el sigueinte material:
 
 - [00. Presentación del software](00_Presentacion_del_software.pdf)
-- [00. Lectores de formato disponibles en ParaView](00_Lectores_de_formato_disponibes_en_ParaView.pdf)
+- [00. Lectores de formato disponibles en ParaView](00_Lectores_de_formato_disponibles_en_ParaView.pdf)
 
 ## Descargar ParaView
 
