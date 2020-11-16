@@ -20,16 +20,16 @@ Es esta sección se hace una introducción de lleno a ParaView, explicando su fu
 
 La recomendación cuando se quiera programar una rutina pero se desconozcan los comandos es activar la función ***Start Trace*** en el menú *Tools* de la interfaz gráfica paraview, con el cual, al finalizar el proceso se presentará al usuario un ```script.py``` comentado con todos los comandos escritos de las acciones que se realizaron.
 
-### Comandos inconsistentes encontrados en la guía de ParaView
+### Comandos inconsistentes encontrados en la guía de ParaView (Cap 1)
 
-Tanto en el cuaderno de comandos como en el diaporama se encuntra la explicación y la referencia por la cual la guía de ParaView emplea mla el comando
+Tanto en el cuaderno de comandos como en el diaporama se encuentra la explicación y la referencia por la cual la guía de ParaView emplea mal el comando
 
 ```
 Shrink()
 entrada_filtro = GetProperty('Input')
 ```
 
-la cual lanza el sigueinte error:
+lo cual lanza el sigueinte error:
 
 ```
 AttributeError: 'paraview.modules.vtkRemotingServerManager.vtkSMInp' object has no attribute 'Port'

@@ -5,10 +5,10 @@ En esta primera sección se hace una pequeña presentación del software, mostra
 - [00. Presentación del software](00_Presentacion_del_software.pdf)
 - [00. Lectores de formato disponibles en ParaView](00_Lectores_de_formato_disponibles_en_ParaView.pdf)
 
-## Descargar ParaView
-
-ParaView está disponible para los 3 grandes sistemas operativos del momento: Microsoft Windows, GNU Linux y mac OS, a un solo [clic](https://www.paraview.org/download/).
-
 ## Video Explicativo
 
 - [ParaView | 00. Presentación del software (tutorial)](https://youtu.be/EZV3EqaoCTQ)
+
+## Descargar ParaView
+
+ParaView está disponible para los 3 grandes sistemas operativos del momento: Microsoft Windows, GNU Linux y mac OS, a un solo [clic](https://www.paraview.org/download/).
