@@ -1,3 +1,6 @@
+# La librería (es opcional)
+from paraview.simple import *
+
 cono = Cone()
 
 # Se imprimen los límites que haya en el momento
