@@ -8,11 +8,11 @@ Es esta sección se hace una introducción de lleno a ParaView, explicando su fu
 ## Videos explicativos
 
 - [ParaView | 01a. Introducción a ParaView - Interfaz gráfica de paraview](https://youtu.be/Hx6kPCnk0RI)
-- [ParaView | 01b. Introducción a ParaView - Python Shell y pvpython](https://youtu.be/IM88o6Rj2pA)
+- [ParaView | 01b. Introducción a ParaView - Python Shell](https://youtu.be/IM88o6Rj2pA)
 
-## Sobre ```pvpython``` y sus comandos
+## Scripting con Python
 
-```pvpython``` es la API de ParaView para trabajar con comandos en lenguaje Python desde el *Python Shell* de paraview. Para obtener información sobre un método en especial basta con emplear el comando ```help()```; más información al respecto se puede en contrar en:
+El scripting con Python se desarrolla en ParaView a través de diferentes herramientras, las cuales son: Python Shell desde la GUI, ```pvbatch``` y ```pvpython```. Para obtener información sobre un método o comando en especial basta con emplear el comando ```help()```; más información al respecto se puede en contrar en:
 
 * Página de la wiki sobre [Python Scripting](https://www.paraview.org/Wiki/ParaView/Python_Scripting).
 * Repositorio de Kitware con documentación de Python para ParaView [aquí](https://kitware.github.io/paraview-docs/latest/python/). El módulo [```paraview.simple```](https://kitware.github.io/paraview-docs/latest/python/paraview.simple.html) es el más usado.

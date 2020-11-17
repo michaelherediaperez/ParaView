@@ -14,7 +14,7 @@ El curso cuenta con videos publicados en la plataforma de [YouTube](https://www.
  <img width="400" height="100" src="figs/ParaView_logo.png">
 </p>
 
-[ParaView](https://www.paraview.org/) es un software libre multiplataforma para visualización y renderización de información científica en 3D y 2D, construido sobre la librería de [VTK](https://vtk.org/about/) y cuenta con una gran interacción con los lenguajes de programación ya que permite trabajar desde el lenguaje [Python](https://www.python.org/) mediante su interfaz ```pvpython```, además de la interfaz gráfica paraview.
+[ParaView](https://www.paraview.org/) es un software libre multiplataforma para visualización y renderización de información científica en 3D y 2D, construido sobre la librería de [VTK](https://vtk.org/about/) y cuenta con una gran interacción con los lenguajes de programación ya que permite trabajar desde el lenguaje [Python](https://www.python.org/) mediante Pytho Shell dentro de la interfaz gráfica paraview, con la aplicación ```pvpython``` o con ```pvbatch```.
 
 # Contenido del curso
 
