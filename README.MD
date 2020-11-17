@@ -27,4 +27,4 @@ El curso cuenta con videos publicados en la plataforma de [YouTube](https://www.
 * [06. Seleccion de los datos](06_Seleccion_de_los_datos)
 * [07. Animaciones](07_Animaciones)
 * [08. Guardar resultados](08_Guardar_resultados)
-* [09. VTK - The Visualization Toolkit](09_VTK)
+* [09. Python con ParaView](09_Python_con_ParaView)
