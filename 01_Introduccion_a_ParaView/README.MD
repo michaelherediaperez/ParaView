@@ -31,7 +31,7 @@ Shrink()
 entrada_filtro = GetProperty('Input')
 ```
 
-lo cual lanza el sigueinte error:
+lo cual lanza el siguiente error:
 
 ```
 AttributeError: 'paraview.modules.vtkRemotingServerManager.vtkSMInp' object has no attribute 'Port'
