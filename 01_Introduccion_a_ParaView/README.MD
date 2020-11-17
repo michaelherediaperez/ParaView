@@ -1,6 +1,6 @@
 # Introduccion a ParaView
 
-Es esta sección se hace una introducción de lleno a ParaView, explicando su funcionamiento y los ejecutables principlaes del curso que son paraview y ```pvpython```. Se cuenta con el siguiente material:
+Es esta sección se hace una introducción de lleno a ParaView, explicando la composición de su interfaz gráfica, el uso de Python Shell e introduciendo los ejecutables que tiene ParaView, entre ellos ```pvpython```. Se cuenta con el siguiente material:
 
 - [01. Introducción a ParaView](01_Introduccion_a_ParaView.pdf): diaporama guía del video explicativo.
 - [01_Introduccion_a_ParaView.ipynb](01_Introduccion_a_ParaView.ipynb): cuaderno de comandos básicos para trabajar esta sección desde ```pvpython```.
