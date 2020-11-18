@@ -6,7 +6,8 @@ También se aborda el tema del almacenamiento e información adicional acerca de
 
 ## Diaporamas
 
-- [03a. Cómo entender los datos](03a_Como_entender_los_datos.pdf)
+- [03a. Cómo entender los datos: El formato VTK](03a_Como_entender_los_datos_El_formato_VTK.pdf)
+- [03b. Obtener información con paraview (Introducción)](03b_Obtener_informacion_con_paraview_Introduccion.pdf)
 
 
 ## Comandos ```pvpython```
@@ -14,6 +15,10 @@ También se aborda el tema del almacenamiento e información adicional acerca de
 - [03_Como_entender_los_datos.ipynb](03_Como_entender_los_datos.ipynb)
 
 ## Videos explicativos
+
+- [ParaView | 03a. Cómo entender los datos: el formato VTK]()
+- [ParaView | 03b. Obtener información de los datos - introducción con paraview]()
+- [ParaView | 03c. Obtener informacion de los datos - comandos pvpython]()
 
 ## De interés
 
