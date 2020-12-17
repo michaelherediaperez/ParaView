@@ -4,18 +4,22 @@ En esta sección se explica el concepto de vistas (*views* en inglés) y cuáles
 
 ## Diaporamas
 
-* [04a. Visualización de los datos](04a_Visualizacion_de_los_datos.pdf)
-* [04b. Vistas de renderizado - Rendering Views](04b_Vistas_de_renderizado_Render_Views.pdf)
-* [04c. Vistas de gráficos - Chart Views](04c_Vistas_de_graficos_Chart_Views.pdf)
-* [04d. Python Views](04d_Python_Views.pdf)
-* [04e. Vistas comparativas - Comparative Views](04e_Vistas_comparativas_Comparative_Views.pdf)
+- [04a. Visualización de los datos](04a_Visualizacion_de_los_datos.pdf)
+- [04b. Vistas de renderizado - Rendering Views](04b_Vistas_de_renderizado_Render_Views.pdf)
+- [04c. Vistas de gráficos - Chart Views](04c_Vistas_de_graficos_Chart_Views.pdf)
+- [04d. Python Views](04d_Python_Views.pdf)
+- [04e. Vistas comparativas - Comparative Views](04e_Vistas_comparativas_Comparative_Views.pdf)
 
 
 ## Comandos ```pvpython```
 
-* [04d_Python_Views.ipynb](04d_Python_Views.ipynb): cuaderno con comandos para trabajar con Python Views, incluye una tabla con funciones útiles.
+- [04a_Visualizacion_de_los_datos.ipynb](04a_Visualizacion_de_los_datos.ipynb): cuaderno con comandos básicos para trabajar la visualización de los datos con ```pvpython```.
+- [04d_Python_Views.ipynb](04d_Python_Views.ipynb): cuaderno con comandos para trabajar con Python Views, incluye una tabla con funciones útiles.
 
 ## Videos explicativos
+
+- [ParaView | 04a. Visualización de los datos (introducción)]()
+- [ParaView | 04a. Comandos para visualizar datos con ```pvpython```]()
 
 ## De interés
 
