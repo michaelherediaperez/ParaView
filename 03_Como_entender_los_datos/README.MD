@@ -16,8 +16,8 @@ También se aborda el tema del almacenamiento e información adicional acerca de
 
 ## Videos explicativos
 
-- [ParaView | 03a. Cómo entender los datos: el formato VTK]()
-- [ParaView | 03b. Obtener información de los datos - introducción con paraview]()
+- [ParaView | 03a. Cómo entender los datos: el formato VTK](https://youtu.be/9qzIslwAqbc)
+- [ParaView | 03b. Obtener información de los datos - Information Panel (introducción)](https://youtu.be/6WWvqs17hIE)
 - [ParaView | 03b. Comandos para obtener informacion de los datos con pvpython]()
 
 ## De interés
