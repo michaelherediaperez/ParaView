@@ -18,8 +18,8 @@ En esta sección se explica el concepto de vistas (*views* en inglés) y cuáles
 
 ## Videos explicativos
 
-- [ParaView | 04a. Visualización de los datos (introducción)]()
-- [ParaView | 04a. Comandos para visualizar datos con ```pvpython```]()
+- [ParaView | 04a. Visualización de los datos (Introducción en español)](https://youtu.be/0Kp6KIqguXw)
+- [ParaView | 04b. Comandos para visualizar datos con ```pvpython```]()
 
 ## De interés
 
