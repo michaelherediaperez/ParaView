@@ -4,9 +4,11 @@
  <img align="left" width="200" height="200" src="figs/Universidad_nacional_de_colombia_escudo.svg">
 </p>
 
-El siguiente es un tutorial en español sobre el software [ParaView](https://www.paraview.org/), hecho como becario de la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/) en la monitoría de la asignatura [Aplicación de los Elementos Finitos](https://github.com/diegoandresalvarez/elementosfinitos). 
+El siguiente es un tutorial en español sobre el software [ParaView](https://www.paraview.org/), hecho como becario de la [Universidad Nacional de Colombia Sede Manizales](https://www.manizales.unal.edu.co/) en la monitoría de la asignatura [Aplicación de los Elementos Finitos](https://github.com/diegoandresalvarez/elementosfinitos). 
 
-El curso cuenta con videos publicados en la plataforma de [YouTube](https://www.youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c) y se apoya en diaporamas y cuadernos ```.ipynb``` con comandos básicos para el uso del Python Shell tomados del manual [TheParaViewGuide-5.8.1](https://www.paraview.org/paraview-guide/), documento con el cual se ha adquirido la mayoría de la información y que muestra la versión con la cual se trabajó del software: 5.8.1. Sin embargo, al nivel del curso no hay grandes diferencias operativas con versiones recientes.
+El curso cuenta con videos publicados en la plataforma de [YouTube](https://www.youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c) y se apoya en presentaciones y cuadernos ```.ipynb``` con comandos básicos para trabajar con ```pvpython```.
+
+La versión de ParaView trbajada es la 5.8.1.
 
 # Sobre ParaView
 
@@ -14,7 +16,7 @@ El curso cuenta con videos publicados en la plataforma de [YouTube](https://www.
  <img width="400" height="100" src="figs/ParaView_logo.png">
 </p>
 
-[ParaView](https://www.paraview.org/) es un software libre multiplataforma para visualización y renderización de información científica en 3D y 2D, construido sobre la librería de [VTK](https://vtk.org/about/) y cuenta con una gran interacción con los lenguajes de programación ya que permite trabajar desde el lenguaje [Python](https://www.python.org/) mediante Pytho Shell dentro de la interfaz gráfica paraview, con la aplicación ```pvpython``` o con ```pvbatch```.
+[ParaView](https://www.paraview.org/) es un software libre multiplataforma para visualización y renderización de información científica en 3D y 2D, construido sobre la librería [VTK](https://vtk.org/about/) y cuenta con una gran interacción con los lenguajes de programación ya que permite trabajar desde el lenguaje [Python](https://www.python.org/) mediante el Python Shell dentro de la interfaz gráfica paraview, con la aplicación ```pvpython``` o con ```pvbatch```.
 
 # Contenido del curso
 

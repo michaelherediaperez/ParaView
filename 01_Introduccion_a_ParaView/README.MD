@@ -2,7 +2,7 @@
 
 Es esta sección se hace una introducción de lleno a ParaView, explicando la composición de su interfaz gráfica, el uso de Python Shell e introduciendo los ejecutables que tiene ParaView, entre ellos ```pvpython```. Se cuenta con el siguiente material:
 
-- [01. Introducción a ParaView](01_Introduccion_a_ParaView.pdf): diaporama guía del video explicativo.
+- [01. Introducción a ParaView](01_Introduccion_a_ParaView.pdf).
 - [01_Introduccion_a_ParaView.ipynb](01_Introduccion_a_ParaView.ipynb): cuaderno de comandos básicos para trabajar esta sección desde Python Shell y ```pvpython```.
 
 ## Videos explicativos
@@ -24,7 +24,7 @@ La recomendación cuando se quiera programar una rutina pero se desconozcan los 
 
 ## Comandos inconsistentes encontrados en la guía de ParaView (Cap 1)
 
-Tanto en el cuaderno de comandos como en el diaporama se encuentra la explicación y la referencia por la cual la guía de ParaView emplea mal el comando
+Tanto en el cuaderno de comandos como en la presentación se encuentra la explicación y la referencia por la cual la guía de ParaView emplea mal el comando
 
 ```
 Shrink()
