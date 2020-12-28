@@ -2,7 +2,7 @@
 
 En esta sección se explica cómo hacer codificación en Python para trabajar en ParaView mediante los aplicactivos ```pvpython``` y ```pvbatch```.
 
-Esta parte requiere de mayores conocimientos en programación, por lo que aún está en desarrollo.... pero se ve muy interesante!
+Está en desarrollo.
 
 
 ## Enlaces de interés
