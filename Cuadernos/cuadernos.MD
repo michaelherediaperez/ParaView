@@ -5,11 +5,11 @@ A continuación se presentan una serie de cuadernos de Python ```.ipynb```, los 
 - [01_Introduccion_a_ParaView.ipynb](01_Introduccion_a_ParaView.ipynb)
 - [02_Cargar_los_datos.ipynb](02_Cargar_los_datos.ipynb)
 - [03_Entendiendo_los_datos.ipynb](03_Entendiendo_los_datos.ipynb)
-- [04a_Visualizacion_de_los_datos-ipynb](04a_Visualizacion_de_los_datos-ipynb)
-- [04b_Python_Views.ipynb](04b_Python_Views.ipynb)
+- [04a_Visualizacion_de_los_datos.ipynb](04a_Visualizacion_de_los_datos.ipynb)
+- [04d_Python_Views.ipynb](04d_Python_Views.ipynb)
 - [05_Filtracion_de_los_datos.ipynb](05_Filtracion_de_los_datos.ipynb)
 - [06_Seleccion_de_los_datos_Python_Selection.ipynb](06_Seleccion_de_los_datos_Python_Selection.ipynb)
-- [08_Guardar_resultaados.ipynb](08_Guardar_resultaados.ipynb)
+- [08_Guardar_resultados.ipynb](08_Guardar_resultados.ipynb)
 
 ## Scripting con Python
 
