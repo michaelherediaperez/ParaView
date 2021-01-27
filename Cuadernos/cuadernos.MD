@@ -16,7 +16,7 @@ A continuación se presentan una serie de cuadernos de Python ```.ipynb```, los 
 El scripting con Python se desarrolla en ParaView a través de diferentes herramientras, las cuales son: Python Shell desde la GUI, ```pvbatch``` y ```pvpython```. Para obtener información sobre un método o comando en especial basta con emplear el comando ```help()```; más información al respecto se puede en contrar en:
 
 - La [ParaViewGuide-5.8.1.pdf](https://www.paraview.org/files/v5.8/ParaViewGuide-5.8.1.pdf).
-- El módulo [```paraview.simple```](https://kitware.github.io/paraview-docs/latest/python/paraview.simple.html) el cual es el más usado.
+- El módulo [```paraview.simple```] el cual es el más usado, [aquí](https://kitware.github.io/paraview-docs/latest/python/paraview.simple.html)
 
 La recomendación cuando se quiera programar una rutina pero se desconozcan los comandos es activar la función ***Start Trace*** en el menú *Tools* de la interfaz gráfica paraview, con el cual, al finalizar el proceso se presentará al usuario un ```script.py``` comentado con todos los comandos escritos de las acciones que se realizaron.
 

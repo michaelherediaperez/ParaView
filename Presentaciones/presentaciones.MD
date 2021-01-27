@@ -1,8 +1,8 @@
 # Presentaciones
 
-A continuación se presenta una serie de presentaciones las cuales son un resumen con los datos más destacables de la ParaViewGuide-5.8.1 y otras fuentes, respecto al uso del software ParaView en diferentes secciones:
+A continuación encuentra una serie de presentaciones, las cuales son un resumen con los datos más destacables de la ParaViewGuide-5.8.1 y, otras fuentes, respecto al uso del software ParaView en diferentes secciones:
 
-## Presentacion e introduccion a ParaView
+## Presentacion e introducción a ParaView
 
 - [00. Presentación del software](00_Presentacion_del_software.pdf)
 - [01. Introducción a ParaView](01_Introduccion_a_ParaView.pdf).
@@ -24,7 +24,7 @@ A continuación se presenta una serie de presentaciones las cuales son un resume
 - [04d. Python Views](04d_Python_Views.pdf).
 - [04e. Vistas comparativas - Comparative Views](04e_Vistas_comparativas_Comparative_Views.pdf).
 
-## Filtracion de los datos 
+## Filtración de los datos 
 
 - [05a. Filtracion de los datos](05a_Filtracion_de_los_datos.pdf).
 - [05b. Filtros para subgrupos de datos - Subsetting data](05b_Filtros_para_subgrupos_de_datos_Subsetting_data.pdf).
@@ -32,14 +32,15 @@ A continuación se presenta una serie de presentaciones las cuales son un resume
 - [05d. Filtros para muestreo - Sampling](05d_Filtros_para_muestreo_Sampling.pdf).
 - [05e. Filtros para manipulación de atributos - Attribute manipulation](05e_Filtros_para_manipulacion_de_atributos_Attribute_manipulation.pdf).
 - [05f. Programar filtros](05f_Programar_filtros_Programmable_filters.pdf).
-- [05d. Recomendaciones para usar filtros](05g_Recomendaciones_para_usar_filtros.pdf).
+- [05g. Recomendaciones para usar filtros](05g_Recomendaciones_para_usar_filtros.pdf).
 
 ## Selección de los datos
 
 - [06a. Selección de los datos](06a_Seleccion_de_los_datos.pdf).
 - [06b. Selección con vistas - View Selection](06b_Seleccion_con_vistas_View_Selection.pdf).
 - [06c. Selección con menú de diálogo Find Data](06c_Seleccion_con_Find_Data_menu.pdf).
-- [06e. Extraer y presentar selecciones](06e_Extraer_y_presentar_selecciones.pdf).
+- [06d. Selección con Python: Python Selection](06d_Seleccion_con_Python_Python_Selection.pdf).
+- [06e. Extraer selecciones: Extract Selection y Plot Selection Over Time](06e_Extraer_selecciones.pdf).
 
 ## Guardar los resultados
 
