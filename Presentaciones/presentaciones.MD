@@ -44,7 +44,7 @@ A continuación encuentra una serie de presentaciones, las cuales son un resumen
 
 ## Animaciones
 
-- [07. Animaciones](07_Animaciones).
+- [07. Animaciones](07_Animaciones.pdf).
 
 ## Guardar los resultados
 
