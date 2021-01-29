@@ -42,6 +42,10 @@ A continuación encuentra una serie de presentaciones, las cuales son un resumen
 - [06d. Selección con Python: Python Selection](06d_Seleccion_con_Python_Python_Selection.pdf).
 - [06e. Extraer selecciones: Extract Selection y Plot Selection Over Time](06e_Extraer_selecciones.pdf).
 
+## Animaciones
+
+- [07. Animaciones](07_Animaciones).
+
 ## Guardar los resultados
 
 - [08. Guardar resultados](08_Guardar_resultados.pdf).
