@@ -12,7 +12,7 @@ Este tutorial se compone de:
 - [Presentaciones](Presentaciones/presentaciones.MD) tipo resumen que explican el uso de la interfaz paraview y su funcionamiento interno.
 - Videos explicativos subidos a la plataforma de YouTube:
     - [ParaView | Tutorial del software](https://www.youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c)
-    - [ParaView | Videos cortos en español](https://www.youtube.com/playlist?list=PLFB8R5rtkrDqluqmM86Py9xJSOXWsRhOY)
+    - [ParaView | Ejemplos cortos en español](https://www.youtube.com/playlist?list=PLFB8R5rtkrDqluqmM86Py9xJSOXWsRhOY)
 
 # Sobre ParaView
 
